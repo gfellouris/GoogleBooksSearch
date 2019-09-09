@@ -2,6 +2,10 @@
 
 - [GitHub repo](https://github.com/gfellouris/GoogleBooksSearch.git)
 - [Heroku]()
+- Google Book API
+    - API: https://www.googleapis.com/books/v1/volumes?q=search+terms
+    - Developer Page: https://developers.google.com/books/docs/v1/using
+    
 
 ## Motivation - The **Why**
 React-based Google Books Search app. requires you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. Also use Node, Express and MongoDB so that users can save books to review or purchase later.
